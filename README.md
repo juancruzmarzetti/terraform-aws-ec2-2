@@ -15,7 +15,7 @@ to execute this file:
 
 # What is this for?
 
-this Terraform configuration file creates a basic and free AWS´s EC2 instance, with the minimum information possible.
+this Terraform configuration file will create 2 basic and free AWS´s EC2 instances, with the minimum information possible.
 
 ---
 
@@ -36,4 +36,4 @@ ejecutar:
 
 # ¿Para qué es esto?
 
-Este archivo de configuración de Terraform crea una instancia EC2 de AWS básica y gratuita, con la mínima información posible.
+Este archivo de configuración de Terraform creará dos instancias EC2 de AWS básicas y gratuitas, con la mínima información posible.
