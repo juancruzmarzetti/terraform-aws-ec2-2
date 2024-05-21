@@ -29,10 +29,10 @@ configure sus credenciales de AWS IAM con AWS CLI:
 - "configurar aws"
 
 ejecutar:
-- "terraformar inicio"
-- "plan de terraformación"
-- "aplicación de terraformación"
-- "terraform destroy" (si no desea mantener la instancia EC2 con vida (un riesgo para las cuentas gratuitas de AWS))
+- "terraform init"
+- "terraform plan"
+- "terraform apply"
+- "terraform destroy" (si no desea mantener la infraestructura con vida (un riesgo para las cuentas gratuitas de AWS))
 
 # ¿Para qué es esto?
 
